@@ -1,4 +1,4 @@
-#Reducing Commercial Aviation Fatalities
+**Reducing Commercial Aviation Fatalities**
 
 **Introduction**
 We know that the job of a pilot comes under those roles which require the highest level of consciousness, but there may be a situation where a pilot may also get distracted due to various reasons. Past records show that there are lots of flight-related fatalities that occurred due to loss of “airplane state awareness”. So there should be a mechanism by which we can identify and prevent flight-related fatalities. The consulting firm Booz Allen Hamilton, posted a challenge for Data Scientists on Kaggle around 2 years back, on the lookout for a machine learning model that can detect troubling events from aircrew’s physiological data.
